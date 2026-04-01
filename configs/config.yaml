@@ -1,0 +1,15 @@
+train:
+  batch_size: 256
+  epochs: 5
+  lr: 0.001
+  device: "cuda"
+
+model:
+  hidden_sizes: [128, 64]
+  num_actions: 8   # banner_pos ranges from 0..7
+
+data:
+  path: data/train.csv
+  nrows: null   # null = load ALL rows
+
+
