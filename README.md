@@ -36,7 +36,7 @@ Must include:
 click (reward)
 banner_pos (action)
 Other categorical features (automatically encoded)
-
+Link: https://www.kaggle.com/datasets/atirpetkar/avazu-ctr
 ---
 
 
